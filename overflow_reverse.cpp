@@ -19,3 +19,5 @@ public:
         return rev;
     }
 };
+
+// Every number is checked for possible overflow before the addition of the next digit. The digits have been specified according to the intergral limits.
